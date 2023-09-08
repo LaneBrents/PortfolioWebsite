@@ -433,3 +433,14 @@ h3 {
 .email-icon {
   height: 3.2rem;
 }
+
+/* Footer */
+
+footer {
+  height: 26vh;
+  margin: 0 1rem;
+}
+
+footer p {
+  text-align: center;
+}
